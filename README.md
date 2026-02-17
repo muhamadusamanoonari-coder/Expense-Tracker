@@ -73,7 +73,7 @@ Expense analytics chart
 
 Smart ledger table
 
-(You can add screenshots here later for LinkedIn or GitHub.)
+
 
  Use Cases
 
